@@ -1,5 +1,4 @@
 # rfid_doorlock
-RFID Scanning verification with servo control
 RFID Door Lock Program with Servo Motor, Arduino Uno, and MFRC522
 
 This project is a simple RFID door lock system that can be easily integrated into your home or office. It uses an Arduino Uno, an MFRC522 RFID module, 
